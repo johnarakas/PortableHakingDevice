@@ -1,2 +1,1 @@
-# PortableHakingDevice
-a project I made for FUN and only using  a raspberry pi wifi adapter and some more things to make a portable device with kali capable  for hacking
+My idea for portable hacking device. Using a raspberry pi 3b, a wifi adapter and some other things to create a portable kali machine
